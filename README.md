@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**AwololaRukayat/AwololaRukayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently on a 30DaysofLearning challenge.
+- 🌱 I’m currently learning Data Analysis.
+
+
+- 👯 I’m looking to collaborate on projects.
+- 🤔 I’m looking for help to break down technical concept.
+- 💬 Ask me about anything Data analysis.
+- 📫 How to reach me: https://www.Linkedin.com/in/awolola-rukayat-380332233
+
+- ⚡ Fun fact: I am a foodie.
+
