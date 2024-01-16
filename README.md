@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently on a 30DaysofLearning challenge.
-- 🌱 I’m currently learning Data Analysis.
+- 🔭 I’m a Data Analyst .
+- 🌱 I use Excel,SQL and Power BI to analyze and give informed decision using data.
 
 
 - 👯 I’m looking to collaborate on projects.
